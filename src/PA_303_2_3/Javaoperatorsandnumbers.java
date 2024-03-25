@@ -1,6 +1,6 @@
 package PA_303_2_3;
 
-public class Javaoperatorsandvariables {
+public class Javaoperatorsandnumbers {
     public static void main(String[] args) {
         /*Write a program that declares an integer a variable x, assigns the value 2 to it,
          and prints out the binary string version of the number ( Integer.toBinaryString(x) ).
